@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Arya and Hound",
+      "image": "./images/aryaPic.png"
+    },
+    {
+      "id": 2,
+      "name": "Cersi",
+      "image": "./images/Cers.png"
+    },
+    {
+      "id": 3,
+      "name": "Danny and Jon",
+      "image": "./images/DannyandJonPic.png"
+    },
+    {
+      "id": 4,
+      "name": "Danny",
+      "image": "./images/DanyPic.png"
+    },
+    {
+      "id": 5,
+      "name": "Hordor",
+      "image": "./images/HordorPic.png"
+    },
+    {
+      "id": 6,
+      "name": "Jon and Ghost",
+      "image": "./images/JonandGhostPic.png"
+    },
+    {
+      "id": 7,
+      "name": "Mil",
+      "image": "./images/MilPic.png"
+    },
+    {
+      "id": 8,
+      "name": "The Mountain Pic",
+      "image": "./images/themountPic.png"
+    },
+    {
+      "id": 9,
+      "name": "Varys",
+      "image": "./images/VarysPic.png"
+    },
+    {
+      "id": 10,
+      "name": "Walker",
+      "image": "./images/walkerPic.png"
+    }
+  ]
+  
